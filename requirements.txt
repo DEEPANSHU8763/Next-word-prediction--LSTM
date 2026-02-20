@@ -4,7 +4,8 @@ nltk
 scikit-learn
 tensorboard
 matplotlib
-streamlit
 scikeras
 nltk
-tensorflow
+streamlit==1.32.2
+tensorflow==2.20.0
+
