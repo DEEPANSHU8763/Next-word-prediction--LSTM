@@ -1,12 +1,5 @@
-pandas
-numpy
-nltk
-scikit-learn
-tensorboard
-matplotlib
-scikeras
-nltk
-streamlit
-tensorflow-cpu==2.20.0
+streamlit>=1.35.0
+tensorflow-cpu>=2.20.0
+
 
 
